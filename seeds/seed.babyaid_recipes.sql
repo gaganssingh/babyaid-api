@@ -29,7 +29,7 @@ VALUES
     (
         'fourtosix', 
         'Banana purée',
-        ARRAY ['Fibre', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
+        ARRAY ['Fiber', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
         ARRAY ['1 small banana'],
         ARRAY ['1. Peel a small banana and mash with a fork.', '2. During the first stages of weaning, add a little milk if necessary to thin down the consistency and add a familiar taste.', '3. Serve with breast milk or formula if serving as First Foods Breakfast.'],
         'https://www.annabelkarmel.com/recipes/banana-puree/'
@@ -45,7 +45,7 @@ VALUES
     (
         'fourtosix', 
         'Avocado purée',
-        ARRAY ['Folate', 'Fibre', 'Potassium', 'Vitamin E', 'Iron'],
+        ARRAY ['Folate', 'Fiber', 'Potassium', 'Vitamin E', 'Iron'],
         ARRAY ['1 medium avocado'],
         ARRAY ['1. Clean the avocado thoroughly.', '2. Mash the avocado with a fork or blend it in a food processor.', '3. Mix with breastmilk, formula or water to reach desired consistency.'],
         'https://pickyeaterblog.com/homemade-baby-food-recipes-avocado-puree/'
@@ -78,7 +78,7 @@ VALUES
     (
         'fourtosix', 
         'Oatmeal cereal',
-        ARRAY ['Vitamin A', 'Calcium', 'Iron', 'Fibre', 'Vitamin B6', 'Magnesium'],
+        ARRAY ['Vitamin A', 'Calcium', 'Iron', 'Fiber', 'Vitamin B6', 'Magnesium'],
         ARRAY ['1/4 cup ground organic oatmeal', '3/4 cup water'],
         ARRAY ['1. Ground the oatmeal in a food processor.', '2. In a saucepan, bring water to a boil and stir in the ground oatmeal.', '3. Simmer for 10 minutes, whisking constantly, mix in formula or breast milk if desired, and safely serve warm.'],
         'https://infantino.com/blogs/fresh-squeezed-blog/oatmeal-cereal-homemade-baby-food-recipe'
@@ -110,7 +110,7 @@ VALUES
     (
         'sixtoeight', 
         'Apple banana mush',
-        ARRAY ['Folate', 'Fibre', 'Vitamin A', 'Vitamin C', 'Potassium', 'Magnesium', 'Calcium'],
+        ARRAY ['Folate', 'Fiber', 'Vitamin A', 'Vitamin C', 'Potassium', 'Magnesium', 'Calcium'],
         ARRAY ['1 medium apple', '1 medium ripe banana'],
         ARRAY ['1. Peel, core and cut apple into small chunks.', '2. Place slices or chunks into a pan with just enough water to slightly cover apples.', '3. Boil until tender; be sure to check on the water level.', '4. Take out the apple chunks in a bowl and mash into a smooth applesauce consistency using a potato masher.', '5. Peel a ripe banana and mash together with the applesauce.'],
         'https://wholesomebabyfood.momtastic.com/stage1_homemade_baby_food_recipes.htm'
@@ -126,7 +126,7 @@ VALUES
     (
         'sixtoeight', 
         'Avocade banana purée',
-        ARRAY ['Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Folate', 'Fibre', 'Potassium', 'Vitamin E', 'Iron'],
+        ARRAY ['Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Folate', 'Fiber', 'Potassium', 'Vitamin E', 'Iron'],
         ARRAY ['2 ripe avocado', '2 ripe bananas', '3 tsp lemon juice or apple cider'],
         ARRAY ['1. Peel the bananas and cut avocados in half, removing the pit, & scoop out with a spoon.', '2. Puree together both the avocado and banana using the juice or apple cider to control consistency.'],
         'https://www.justapinch.com/recipes/side/vegetable/avocado-banana-babyfood.html'
@@ -142,7 +142,7 @@ VALUES
     (
         'sixtoeight', 
         'Pumpkin & thyme purée',
-        ARRAY ['Fibre', 'Vitamin A', 'Vitamin C', 'Calcium', 'Vitamin B6', 'Magnesium'],
+        ARRAY ['Fiber', 'Vitamin A', 'Vitamin C', 'Calcium', 'Vitamin B6', 'Magnesium'],
         ARRAY ['1 small pumpkin', '1/2 tsp fresh thyme', '1 to 2 cups water or breast milk'],
         ARRAY ['1. Preheat the oven to 350F', '2. Slice the pumpkin in half and scoop out all the seeds.', '3. Chop the pumpkin into smallish pieces and place onto a baking sheet, skin down. Roast in oven for 45-60 minutes or until a fork can pierce the very tender flesh. Set aside until cool enough to handle.', '4. Peel skin away from the pumpkin and place inside a food processor or blender. Add thyme and start blending for 1-2 minutes, adding water in 1/4 cup ingrements until you get desired consistency.'],
         'https://babyfoode.com/blog/pumpkin-thyme/'
@@ -150,7 +150,7 @@ VALUES
     (
         'sixtoeight', 
         'Banana & mango purée',
-        ARRAY ['Fibre', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
+        ARRAY ['Fiber', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
         ARRAY ['1 small banana', '1 small mango'],
         ARRAY ['1. Peel both the banana and mango. Then remove the mango pit and slice into small cubes.', '2. Using a food processor blend both the mango and the banana into a puree.'],
         'https://www.babycenter.com/0_mango-banana-puree_10403199.bc'
@@ -158,7 +158,7 @@ VALUES
     (
         'sixtoeight', 
         'Broccoli purée',
-        ARRAY ['Fibre', 'Vitamin A', 'Vitamin C', 'Calcium', 'Vitamin E', 'Vitamin K'],
+        ARRAY ['Fiber', 'Vitamin A', 'Vitamin C', 'Calcium', 'Vitamin E', 'Vitamin K'],
         ARRAY ['1 medium bunch of broccoli'],
         ARRAY ['1. Wash thoroughly and separate the florets from the stems.', '2. Steam broccoli florets, 8-10 minutes or until tender, reserving the liquid.', '3. Using a food processor and the reserved liquid, puree the broccoli until a desired consistency is reached.'],
         'https://www.thebump.com/a/baby-food-recipes-6-to-8-month-olds'
@@ -218,7 +218,7 @@ VALUES
     (
         'eighttoten', 
         'Quinoa banana mash',
-        ARRAY ['Fibre', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
+        ARRAY ['Fiber', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
         ARRAY ['1/2 banana', 'Pinch cinnamon', '3 Tbsp cooked quinoa', '1 Tbsp whole milk yogurt'],
         ARRAY ['1. Mash the banana in a bowl.', '2. Add remaining ingredtents, mixing to a desired consistency.'],
         'https://weelicious.com/1219/'
@@ -234,7 +234,7 @@ VALUES
     (
         'eighttoten', 
         'Pastina and bananas',
-        ARRAY ['Fibre', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
+        ARRAY ['Fiber', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
         ARRAY ['1 medium banana', '2 Tbsp wheat pastina'],
         ARRAY ['1. Prepare pastina as directed for hot cereal. Do not add milk.', '2. Stir in banana and optionally formula or breast milk as desired.'],
         'https://wholesomebabyfood.momtastic.com/stage2-baby-food-recipes.htm'
@@ -250,7 +250,7 @@ VALUES
     (
         'eighttoten', 
         'Blueberry Banana Yogurt',
-        ARRAY ['Fibre', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
+        ARRAY ['Fiber', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
         ARRAY ['1 cup blueberries puree', '1 medium banana', '1 cup plain yogurt', '2 Tbsp wheat germ'],
         ARRAY ['Place the banana, yogurt and blueberries in a blender and puree until smooth.'],
         'https://wholesomebabyfood.momtastic.com/stage2-baby-food-recipes.htm'
@@ -271,7 +271,7 @@ VALUES
     (
         'tentotwelve', 
         'Oatmeal Scramble',
-        ARRAY ['Vitamin A', 'Calcium', 'Iron', 'Fibre', 'Vitamin B6', 'Magnesium'],
+        ARRAY ['Vitamin A', 'Calcium', 'Iron', 'Fiber', 'Vitamin B6', 'Magnesium'],
         ARRAY ['1 cup cooked oatmeal', '1/4 cup soft cooked veggies or fruits of your choice', '1 teaspoon olive oil', '2 egg yolks'],
         ARRAY ['1. Whisk two egg yolks in a bowl and keep them aside.', '2. Peel a banana and cut it into slices.', '3. Heat olive oil in a frying pan.', '4. Add oatmeal, fruit, and egg yolk to the pan. Fry gently until the eggs are cooked.', '5. Break the oatmeal scramble into pieces and offer them to your little one.'],
         'https://www.momjunction.com/articles/easy-yummy-oats-recipes-your-baby-will-love-to-eat_00108705/#oatmeal'
@@ -295,7 +295,7 @@ VALUES
     (
         'tentotwelve', 
         'Pastina and bananas',
-        ARRAY ['Fibre', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
+        ARRAY ['Fiber', 'Vitamin B2', 'Vitamin B6', 'Vitamin C', 'Manganese', 'Potassium', 'Magnesium', 'Folate', 'Copper'],
         ARRAY ['1 medium banana', '2 Tbsp wheat pastina'],
         ARRAY ['1. Prepare pastina as directed for hot cereal. Do not add milk.', '2. Stir in banana and optionally formula or breast milk as desired.'],
         'https://wholesomebabyfood.momtastic.com/stage2-baby-food-recipes.htm'
@@ -327,7 +327,7 @@ VALUES
     (
         'tentotwelve', 
         'Quinoa, black beans & corn',
-        ARRAY [''],
+        ARRAY ['Protein', 'Fiber', 'Calcium', 'Iron'],
         ARRAY ['1/4 cup quinoa', '½ cup water', '1 tsp olive oil', '1/2 cup black beans', '1/4 corn kernels'],
         ARRAY ['1. Cook quinoa according to the package instructions.', '2. Cook black beans and corn using the olive oil in a saucepan until tender.', '3. Mix in the cooked quinoa and serve.'],
         'https://www.babycenter.com/0_quinoa-black-beans-corn_10403213.bc'
