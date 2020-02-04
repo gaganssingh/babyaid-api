@@ -6,6 +6,7 @@ const helmet = require("helmet");
 const { NODE_ENV, CLIENT_ORIGIN } = require("./config");
 const logger = require("./logger");
 const fourtosixRouter = require("./fourtosix/fourtosix-router");
+const eighttotenRouter = require("./eighttoten/eighttoten-router");
 
 const app = express();
 
@@ -20,6 +21,7 @@ app.use(
 );
 
 app.use("/api/fourtosix", fourtosixRouter);
+app.use("/api/eighttoten", eighttotenRouter);
 
 app.get("/", (req, res) => {
 	res.send("Hello, world!");
